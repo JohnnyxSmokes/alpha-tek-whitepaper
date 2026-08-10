@@ -73,7 +73,7 @@ This document is a **public synopsis**. Implementation monorepos remain private 
 
 ---
 
-## 3. Solution — One Ecosystem, Three Product Planes
+## 3. Solution — Product Planes
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -82,13 +82,13 @@ This document is a **public synopsis**. Implementation monorepos remain private 
 │  EPIC ALPHA    │  ALPHATEK.APP       │  ALPHA TRENCH         │
 │  Discord       │  Web portal         │  Browser extension    │
 │  Free first    │  Full intelligence  │  Pair-page client     │
-│  200+ Tek ch   │  Research + ops     │  Guard · Journal      │
+│  + licensing   │  + AAI Hub          │  Guard · Journal      │
 └───────┬────────┴──────────┬──────────┴───────────┬───────────┘
         │                   │                      │
         └───────────────────┼──────────────────────┘
                             ▼
-                 AAI UTILITY + SUBSCRIPTION
-            access · stake · credits · buybacks
+              REVENUE + AAI UTILITY FLYWHEEL
+     subs · Discord licensing · stake / spend · buybacks
 ```
 
 Product footprints (docs only, no private source):
@@ -96,8 +96,10 @@ Product footprints (docs only, no private source):
 | Plane | Public repo |
 |-------|-------------|
 | Portal | [alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) |
-| Discord | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
+| Discord (community) | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
+| Discord **licensing** | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
 | Extension | [alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) |
+| **AAI Hub** | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
 | Founder | [JohnnyxSmokes](https://github.com/JohnnyxSmokes/JohnnyxSmokes) |
 
 ---
@@ -188,21 +190,35 @@ Exact service graphs, rate-limit lattices, and agent topologies are **private co
 
 ---
 
-## 9. AAI Utility & Tokenomics (Design Synopsis)
+## 9. AAI Utility & AAI Hub
 
-**AAI (AlphaAi)** is a Solana SPL **utility** token design:
+**AAI (AlphaAi)** is a Solana SPL **utility** token design powering access, stake, referral, and spend rails for Alpha Tek.
+
+**Micro-footprint (product page):** [aai-hub](https://github.com/JohnnyxSmokes/aai-hub)  
+**Live hub:** [alphatek.app/dashboard/aai](https://www.alphatek.app/dashboard/aai)
+
+### 9.1 Hub surfaces
+
+| Surface | Job |
+|---------|-----|
+| Stake / claim / unstake | On-chain utility flows (devnet proof path) |
+| Activity feed | Economy / session visibility |
+| XP · leaderboards · lottery V1 | Engagement rails on a real product |
+| Access narrative | How hold / stake maps to platform depth |
+
+### 9.2 Utility systems (design)
 
 | System | Design |
 |--------|--------|
-| **Access tiers** | Hold thresholds (e.g. 1k / 5k / 50k class) gate platform depth |
-| **Staking** | Tiered APY design; multi-position staking model |
+| **Wallet access tiers** | Hold thresholds (e.g. 1k / 5k / 50k class) gate platform depth |
+| **On-chain staking** | Tiered APY design (e.g. 15–30% class by tier); multi-position model — **not a guarantee** |
 | **Referral ladder** | Bronze → Platinum style commissions on paid referrals |
 | **Credits / energy** | Spend path for premium AI / agent actions |
 
-**Revenue → buyback flywheel (policy):**
+### 9.3 Revenue → buyback flywheel (policy)
 
 ```text
-Subscriptions + licensing revenue
+Subscriptions + Discord licensing revenue
         │
         ▼
    25% → buybacks
@@ -212,89 +228,129 @@ Subscriptions + licensing revenue
         └── 20% treasury / reinvestment
 ```
 
-**Honest status (critical):**
+### 9.4 Honest status (critical)
 
 | Item | Status |
 |------|--------|
-| Platform / Discord / portal | **Live** |
+| Platform / Discord / portal / AAI Hub UI | **Live** |
 | On-chain programs | **Devnet proven** (mint, staking, buyback, referral designs) |
 | Mainnet mint / public sale | **TBD** — external audit required first |
 | Utility marketing | Utility token — **not** an investment solicitation |
 
-Devnet proof exists for deliberate readers; mainnet remains gated. Detail beyond this synopsis belongs on-product and in long-form token docs when published for mainnet.
+Devnet proof exists for deliberate readers; mainnet remains gated.
 
 ---
 
-## 10. Economic Stack (Non-Token)
+## 10. Discord Licensing (Commercial Micro-Footprint)
 
-| Stream | Role |
-|--------|------|
-| **Subscriptions** | Portal depth ($ tier ladder on product) |
-| **Discord licensing** | Bring Tek packs to other communities |
-| **AAI utility** | Retention + spend + stake alignment |
-| **Free layer** | Discord + meaningful free portal surfaces as flywheel entry |
+Epic Alpha is the **free flagship**. Discord **licensing** is how other servers buy **Tek stack product** without cloning private ops IP.
+
+**Micro-footprint:** [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing)  
+**Flagship product map:** [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord)  
+**Try free first:** [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha)
+
+### 10.1 Monthly tiers
+
+| Tier | Price | Fit |
+|------|------:|-----|
+| **Starter** | **$299** | Small communities · core pack |
+| **Professional** | **$799** | Mid-size servers · deeper radar / monitor footprint |
+| **Enterprise** | **$1,999** | Large / white-label · priority relationship |
+
+Pack composition is **agreement-scoped**. Tiers communicate ladder and economics, not a free dump of proprietary channel trees.
+
+### 10.2 Why it exists
+
+- Funding free Epic Alpha is not optional if free tools are to live  
+- B2B licensing sells **replication cost** (years of channel + command + reliability culture)  
+- Revenue participates in the same **25% buyback policy** design as subscriptions  
+
+### 10.3 Flagship vs licensed
+
+| | Epic Alpha | Licensed |
+|--|------------|----------|
+| Join | Free | Commercial |
+| Role | Mission home + free intel | Operator stacks inside other communities |
+| IP | Alpha Tek operated | Rights under license |
+
+---
+
+## 11. Economic Stack
+
+| Stream | Role | Public footprint |
+|--------|------|------------------|
+| **Subscriptions** | Portal depth ($29 / $79 / $199 design ladder) | [alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) |
+| **Discord licensing** | Tek packs for other communities | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
+| **AAI utility** | Retention + spend + stake alignment | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
+| **Free layer** | Discord + free portal surfaces as entry | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
 
 Sustainability funds more free tools over time — the inversion of “free until collapse.”
 
 ---
 
-## 11. Competitive Thesis — Replication Cost
+## 12. Competitive Thesis — Replication Cost
 
 Alpha Tek is hard to clone as a **weekend fork** because the value is:
 
 1. **Years** of production shipping (not Figma decks)  
 2. **Discord Tek Stack** channel architecture and ops culture  
-3. **Multi-surface** product (portal + Discord + extension)  
-4. **Alpha brand** integrity (one label, many feeds)  
-5. **Build Journey** public accountability at alphatek.app/changelog  
-6. **Private core** until release slices are intentional  
+3. **Multi-surface** product (portal + Discord + extension + Hub)  
+4. **Commercial dual rail** — consumer subs + B2B Discord licensing  
+5. **Alpha brand** integrity (one label, many feeds)  
+6. **Build Journey** public accountability at alphatek.app/changelog  
+7. **Private core** until release slices are intentional  
 
 Investors and rivals can clone a logo. They cannot cheaply clone operational trenches.
 
 ---
 
-## 12. Public Proof Surfaces
+## 13. Public Proof Surfaces
 
 | Proof | URL |
 |-------|-----|
 | Live portal | https://www.alphatek.app |
+| AAI Hub | https://www.alphatek.app/dashboard/aai |
 | Build Journey / changelog | https://www.alphatek.app/changelog |
 | Discord | https://discord.gg/EpicAlpha |
 | Founder GitHub heat | https://github.com/JohnnyxSmokes |
 | Profile story | https://github.com/JohnnyxSmokes/JohnnyxSmokes |
-| Product footprints | portal · discord · trench repos linked above |
+| Product footprints | portal · discord · licensing · trench · aai-hub · whitepaper |
 
 Contribution graphs include private repository activity when the founder enables that setting — **greens without free clones**.
 
 ---
 
-## 13. Roadmap Themes (Non-binding)
+## 14. Roadmap Themes (Non-binding)
 
 1. **Ship Alpha Trench** as fully inspectable public package + store trust reports  
 2. **Chain / surface parity** — depth expanding without UX fragmentation  
 3. **Safety stack** — Alpha Guard expansion across portal, Discord, extension  
 4. **AAI mainnet gates** — external audit, mint authority policy, deliberate launch  
-5. **Licensing & distribution** — Discord packs + partner embeds under Alpha brand  
+5. **Licensing distribution** — Discord packs at Starter / Pro / Enterprise  
 6. **Education** — Academy and founder-led literacy so free tools teach, not just dump data  
 
 ---
 
-## 14. Risks & Disclaimers
+## 15. Risks & Disclaimers
 
 - Crypto markets are high risk; intel tools **do not** remove loss likelihood  
 - Automated feeds can be wrong, delayed, or gamed — verify  
-- Token utility designs can change; devnet ≠ mainnet  
+- Token utility designs can change; devnet ≠ mainnet; APY is design not guarantee  
+- Licensing scope and pricing can evolve commercial terms  
 - This synopsis is **information**, not an offer of securities or investment advice  
 - Always DYOR  
 
 ---
 
-## 15. Contact
+## 16. Contact
 
 | | |
 |--|--|
 | Portal | https://www.alphatek.app |
+| AAI Hub | https://www.alphatek.app/dashboard/aai |
 | Discord | https://discord.gg/EpicAlpha |
+| Licensing footprint | https://github.com/JohnnyxSmokes/discord-licensing |
+| AAI footprint | https://github.com/JohnnyxSmokes/aai-hub |
 | X | https://x.com/BitcoinHomework · https://x.com/AlphaTekBot |
 | GitHub | https://github.com/JohnnyxSmokes |
 

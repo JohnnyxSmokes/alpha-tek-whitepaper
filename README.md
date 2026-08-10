@@ -110,7 +110,7 @@ Product footprints (docs only, no private source):
 
 **Origin:** Epic Alpha Discord was built to **give back**. Keeping everything free indefinitely with one-builder intensity was not sustainable. The pivot is not “become extractive.” The pivot is **subscriptions, licensing, and AAI utility** so free intelligence can endure.
 
-**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL, crypto since the **2012 BTC era**. Daily product shipping discipline (Cursor Day **81** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
+**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **81** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 
 ---
 
@@ -292,15 +292,16 @@ Sustainability funds more free tools over time — the inversion of “free unti
 
 Alpha Tek is hard to clone as a **weekend fork** because the value is:
 
-1. **Years** of production shipping (not Figma decks)  
-2. **Discord Tek Stack** channel architecture and ops culture  
-3. **Multi-surface** product (portal + Discord + extension + Hub)  
-4. **Commercial dual rail** — consumer subs + B2B Discord licensing  
-5. **Alpha brand** integrity (one label, many feeds)  
-6. **Build Journey** public accountability at alphatek.app/changelog  
-7. **Private core** until release slices are intentional  
+1. **14+ year founder track** — trader / developer / multiproject history since BTC 2012, not a single-cycle story  
+2. **Years** of production shipping on the current stack (not Figma decks)  
+3. **Discord Tek Stack** channel architecture and ops culture  
+4. **Multi-surface** product (portal + Discord + extension + Hub)  
+5. **Commercial dual rail** — consumer subs + B2B Discord licensing  
+6. **Alpha brand** integrity (one label, many feeds)  
+7. **Build Journey** public accountability at alphatek.app/changelog  
+8. **Private core** until release slices are intentional  
 
-Investors and rivals can clone a logo. They cannot cheaply clone operational trenches.
+Investors and rivals can clone a logo. They cannot cheaply clone multi-cycle operational trenches.
 
 ---
 

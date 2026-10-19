@@ -19,7 +19,7 @@
   </p>
 
   <p>
-    <em>Public synopsis · Version 2026.10.18 · Living document</em>
+    <em>Public synopsis · Version 2026.10.19 · Living document</em>
   </p>
 
   <p>
@@ -184,18 +184,25 @@ Portal pairing: [alphatek.app](https://www.alphatek.app)
 
 ## 8. Data & Partner Footprint (Public Language)
 
-Alpha user interfaces **do not costume as third-party brands**. Under the hood, production intelligence composes many rails, including families such as:
+Alpha Tek is the product. The live site reads many upstreams. They do different jobs. No single name is the stack. The public library is **1,500+ platform endpoints**.
 
-| Domain | Examples (integration classes) |
-|--------|--------------------------------|
-| On-chain / wallets | Moralis · Cielo · Helius-class Solana · Jupiter |
-| DEX / launch discovery | Pump.fun · Raydium-class · research price anchors |
-| Social / KOL / TG | KOL boards · curated X packs · Telegram call pathways |
-| Markets | CoinGecko · CMC-class · Hyperliquid · prediction markets |
-| Auth / payments | Wallet-first auth (e.g. Privy-class) · Stripe |
-| Infra | Cloud production hosting · PostgreSQL · institutional themes |
+**Markets and listings:** Binance, CoinMarketCap, CoinGecko, MEXC, CoinEx.
 
-Exact service graphs, rate-limit lattices, and agent topologies are **private competitive IP**. Users buy outcomes: **fresh, multi-surface alpha under one brand**.
+**Pools and pairs:** DexScreener, GeckoTerminal, PancakeSwap, Jupiter, Raydium, FluxBeam, Birdeye, Solscan.
+
+**Launches and terminals:** Pump.fun, GMGN, Axiom, Padre.
+
+**Headlines:** CryptoRank, Bitcoin.com.
+
+**Wallets, maps, and perps:** Arkham, Bubblemaps, Hyperliquid.
+
+**Charts:** TradingView.
+
+**Account:** Privy, Stripe, Telegram.
+
+Moralis remains for a few chain reads. It is not the spine. **Cielo is retired.**
+
+Interfaces stay Alpha Tek. Exact rate limits and private routes stay off this page.
 
 ---
 
@@ -332,12 +339,13 @@ Contribution graphs include private repository activity when the founder enables
 
 ## 14. Roadmap Themes (Non-binding)
 
-1. **Ship Alpha Trench** as fully inspectable public package + store trust reports  
-2. **Chain / surface parity** — depth expanding without UX fragmentation  
-3. **Safety stack** — Alpha Guard expansion across portal, Discord, extension  
-4. **AAI mainnet gates** — external audit, mint authority policy, deliberate launch  
-5. **Licensing distribution** — Discord packs at Starter / Pro / Enterprise  
-6. **Education** — Academy and founder-led literacy so free tools teach, not just dump data  
+Chain parity, the multi-chain menu, usability polish, and the current data surfaces are shipped. They are the floor.
+
+1. **Mainnet and AAI.** Launch the token so the platform can be used for what it was built for.
+2. **Community.** Learn together, stay social, make call-outs, look up KOLs, and follow traders worth copying. The community is how the ecosystem fills in.
+3. **Alpha Trench first.** Paper books and the extension are how someone learns trading before risking real capital.
+4. **One clean desk.** Accurate, checkable information in one place, so the community is not fed psyops and rumor hops.
+5. **Tokenized participation.** AAI is how people learn, post, and take part. Devnet programs are proven. Mainnet is the gate.  
 
 ---
 

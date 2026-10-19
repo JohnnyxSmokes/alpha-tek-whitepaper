@@ -21,6 +21,14 @@
   <p>
     <em>Public synopsis · Version 2026.10.19 · Living document</em>
   </p>
+  <p>
+    Dual papers, current working copies:
+    <a href="ALPHA_TEK_PLATFORM_WHITEPAPER.md">Alpha Tek Platform White Paper</a>
+    ·
+    <a href="AAI_TOKEN_WHITEPAPER.md">AAI Token White Paper</a>
+    (version 2.1, October 18, 2026).
+    The official issuance is published on alphatek.app at TGE.
+  </p>
 
   <p>
     <a href="https://www.alphatek.app">

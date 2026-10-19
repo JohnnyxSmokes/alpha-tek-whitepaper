@@ -121,7 +121,7 @@ Both share backend services, caching, and data providers. Sensitive keys stay se
 
 #### Multi-chain intelligence
 
-- **13+ chains** monitored (Ethereum, Solana, BSC, Polygon, Base, Arbitrum, Optimism, Avalanche, and others via Moralis + Cielo enrichment).
+- **15 chains** monitored: Solana, Ethereum, Base, BSC, Robinhood, Polygon, Arbitrum, Optimism, Avalanche, Linea, Pulsechain, Fantom, Ronin, Sei, and Monad, via Alpha Tek partners and data providers.
 - Unified chain selector across DEX Tracker and wallet explorer.
 - Cross-chain trending, gainers, narratives, and search.
 

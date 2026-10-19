@@ -19,7 +19,7 @@
   </p>
 
   <p>
-    <em>Public synopsis · Version 2026.08 · Living document</em>
+    <em>Public synopsis · Version 2026.10.18 · Living document</em>
   </p>
 
   <p>
@@ -51,8 +51,8 @@
 **Alpha Tek** is a production **crypto intelligence ecosystem**:
 
 1. **Epic Alpha Discord** — free community + Discord Tek Stack (200+ channels, hundreds of commands)  
-2. **AlphaTek.App** — live multi-surface web portal (Explorer, Discover, TG Arena, KOL, Guard, Academy, AAI Hub, …)  
-3. **Alpha Trench** — browser trench client (pair-page shell; public inspectable package on release)  
+2. **AlphaTek.App** — live multi-surface web portal (Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, TG Arena, KOL, Guard, Academy, AAI Hub, API library)
+3. **Alpha Trench** — browser trench client. Linked sessions feed the live leaderboard and weekly trade contests  
 4. **AAI (AlphaAi)** — Solana utility token design with **devnet-proven** programs and a revenue-linked buyback flywheel  
 
 The founding intent is blunt: **give real intelligence away** to people who got wrecked, refuse to get wrecked again, or only have a little capital — then make the system **self-sustaining** so the free layer is not a martyr project.
@@ -122,6 +122,10 @@ Live: **[https://www.alphatek.app](https://www.alphatek.app)**
 |---------|--------------|
 | Explorer | Multi-chain market / token context |
 | Discover | Narrative and pool heat discovery |
+| News Hub | Merged headlines from exchange news, CryptoRank, CoinGecko Buzz, and Bitcoin.com |
+| Market Intel | Global metrics, ETF flow, derivatives, cycle indicators, click-through chart |
+| Watchlist | Saved coins with price, market cap, volume, and 24h direction |
+| Alpha Spy | Entity and connection context |
 | Launch / Pump rails | Solana new-pair lifecycle context |
 | Wallet views | Portfolio + enrichment where connected |
 | Quant | Social trading / calls / flex culture |
@@ -129,15 +133,20 @@ Live: **[https://www.alphatek.app](https://www.alphatek.app)**
 | KOL Scope | Social influencer heat, carefully framed |
 | Alpha Guard | Host / domain / mint / approval awareness |
 | Alpha Terminal | Research coin pages |
+| Trench Replay | Cast, Forecast, Market Replay, Wallet Replay |
+| Alpha Trench | Extension plus live leaderboard and weekly trade contests |
 | Alpha Academy | Interactive education |
-| AAI Hub | Utility rails (stake / claim / activity) |
+| AAI Hub | Utility rails (stake / claim / activity) and the referral ladder |
+| API library | 1,500+ platform endpoints. Alpha Tek MCP is coming soon |
+| Alpha Brain / MLM | Queryable memory for calls, heat, and replay, keyed by mint |
 | Build Journey | Public changelog of real shipping |
 
 **Security principles (product-level):**
 
-- API secrets never shipped to browsers  
-- Authenticated sessions for personal / paid state  
-- Alpha-branded safety language instead of scattered vendor widgets  
+- API secrets never shipped to browsers
+- Privy wallet login, Stripe payments, JWT sessions
+- Alpha-branded safety language instead of scattered vendor widgets
+- Alpha Trench release zips ship with a SHA-256 and a VirusTotal report for that exact file. The published 0.9.540 Windows and Safari builds scanned 0 malicious and 0 suspicious. That evidence is for those hashes.  
 
 ---
 

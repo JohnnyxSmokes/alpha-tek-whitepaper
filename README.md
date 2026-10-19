@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/Portal-AlphaTek.App-a855f7?style=for-the-badge&labelColor=0A0A0A" alt="Portal" />
     </a>
     &nbsp;
-    <a href="https://discord.gg/EpicAlpha">
+    <a href="https://discord.gg/sPW3tJk">
       <img src="https://img.shields.io/badge/Discord-Epic%20Alpha-5865F2?style=for-the-badge&labelColor=0A0A0A&logo=discord&logoColor=white" alt="Discord" />
     </a>
     &nbsp;
@@ -110,7 +110,7 @@ Product footprints (docs only, no private source):
 
 **Origin:** Epic Alpha Discord was built to **give back**. Keeping everything free indefinitely with one-builder intensity was not sustainable. The pivot is not “become extractive.” The pivot is **subscriptions, licensing, and AAI utility** so free intelligence can endure.
 
-**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **81** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
+**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **600** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 
 ---
 
@@ -152,7 +152,7 @@ Live: **[https://www.alphatek.app](https://www.alphatek.app)**
 
 ## 6. Discord Tek Stack (Epic Alpha)
 
-Join: **[https://discord.gg/EpicAlpha](https://discord.gg/EpicAlpha)**
+Join: **[https://discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)**
 
 Discord is not a support ticket booth. It is a **production intelligence server**:
 
@@ -256,7 +256,7 @@ Epic Alpha is the **free flagship**. Discord **licensing** is how other servers 
 
 **Micro-footprint:** [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing)  
 **Flagship product map:** [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord)  
-**Try free first:** [discord.gg/EpicAlpha](https://discord.gg/EpicAlpha)
+**Try free first:** [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)
 
 ### 10.1 Monthly tiers
 
@@ -321,7 +321,7 @@ Investors and rivals can clone a logo. They cannot cheaply clone multi-cycle ope
 | Live portal | https://www.alphatek.app |
 | AAI Hub | https://www.alphatek.app/dashboard/aai |
 | Build Journey / changelog | https://www.alphatek.app/changelog |
-| Discord | https://discord.gg/EpicAlpha |
+| Discord | https://discord.gg/sPW3tJk |
 | Founder GitHub heat | https://github.com/JohnnyxSmokes |
 | Profile story | https://github.com/JohnnyxSmokes/JohnnyxSmokes |
 | Product footprints | portal · discord · licensing · trench · aai-hub · whitepaper |
@@ -358,7 +358,7 @@ Contribution graphs include private repository activity when the founder enables
 |--|--|
 | Portal | https://www.alphatek.app |
 | AAI Hub | https://www.alphatek.app/dashboard/aai |
-| Discord | https://discord.gg/EpicAlpha |
+| Discord | https://discord.gg/sPW3tJk |
 | Licensing footprint | https://github.com/JohnnyxSmokes/discord-licensing |
 | AAI footprint | https://github.com/JohnnyxSmokes/aai-hub |
 | X | https://x.com/BitcoinHomework · https://x.com/AlphaTekBot |

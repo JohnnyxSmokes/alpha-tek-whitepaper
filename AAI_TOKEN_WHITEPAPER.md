@@ -539,21 +539,24 @@ keypair); on devnet the agent runs as a labelled dry-run. See
 
 ### Shipped ✅
 
-- Discord Alpha Tek command ecosystem
-- Alpha Dex platform (Explorer, Discover, Quant, wallet, KOL, Stripe)
-- Alpha Terminal Phase 1 (BTC full hybrid + catalog coins)
-- Alpha Academy Mega Courses (42)
-- AAI Hub UI with devnet staking orchestration
-- Four Anchor programs on devnet + smoke suite
-- Self-audit + P0 source fixes + negative test suite
-- XP, badges, lottery (verified)
-- Pay-per-use AAI spend flow
-- Mobile-optimized hub flows
+- Discord Alpha Tek command ecosystem. AlphaTek Systems has posted about **99.7 million** Discord results over four years, on the order of **100 million embeds** delivered into the community.
+- Platform and Discord stay docked both ways: alerts, calls, and watchlists move between the bot and alphatek.app.
+- Watchlist auto-scan and persistence on Discord and the platform.
+- Alpha Tek platform: Explorer, Discover, News Hub, Market Intel, Quant, wallet, KOL Scope, TG Arena, Alpha Spy, Alpha Guard.
+- **15 chains** in one selector: Solana, Ethereum, Base, BSC, Robinhood, Polygon, Arbitrum, Optimism, Avalanche, Linea, Pulsechain, Fantom, Ronin, Sei, Monad.
+- **1,500+** platform API endpoints.
+- Alpha Terminal (BTC hybrid plus catalog coins).
+- Alpha Academy Mega Courses (42).
+- Alpha Trench extension: Instant Trade, paper books, paper trading bots, Mint Intel, Guard, live leaderboard, and weekly trade contests.
+- AAI Hub with devnet staking. Four Anchor programs on devnet, smoke suite, self-audit, and P0 fixes.
+- XP, badges, and the verified lottery.
+- Pay-per-use AAI spend flow.
+- Mobile-optimized hub flows.
+- Stripe plans (Degen, Alpha, Elite) and Privy wallet login.
 
 ### In progress ⏳
 
 - AAI mainnet launch
-- Watchlist auto-scan persistence (Discord + platform)
 
 ### Pre-mainnet gates ❌
 

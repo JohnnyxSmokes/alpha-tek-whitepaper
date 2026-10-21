@@ -756,6 +756,11 @@ No guarantees are made regarding token price, APY sustainability, platform perfo
 
 ---
 
-**© 2026 Alpha Tek. All rights reserved.**
+<p align="center">
+  <img src="assets/alphatek-mark-clear.png" alt="AlphaTek" width="180" />
+</p>
 
-**Version 2.1 — October 18, 2026**
+<p align="center">
+  <strong>© 2026 Alpha Tek. All rights reserved.</strong><br />
+  <strong>Version 2.1 — October 18, 2026</strong>
+</p>

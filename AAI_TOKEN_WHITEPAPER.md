@@ -78,7 +78,7 @@ For more than three years, Epic Alpha offered free tools, alpha, and intel so ne
 
 ### Origin
 
-For more than three years, Alpha Tek lived inside **Epic Alpha Discord** as free tools, alpha, and intel: whale alerts, KOL tracking, momentum tools, and discovery, so people who had lost money or had little to start with could make **informed** decisions.
+For more than three years, Alpha Tek lived inside **AlphaTek Discord** as free tools, alpha, and intel: whale alerts, KOL tracking, momentum tools, and discovery, so people who had lost money or had little to start with could make **informed** decisions.
 
 ### The sustainability pivot
 

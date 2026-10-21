@@ -104,7 +104,7 @@ Product footprints (docs only, no private source):
 | Plane | Public repo |
 |-------|-------------|
 | Portal | [alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) |
-| Discord (community) | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
+| Discord (community) | [alpha-tek-discord](https://github.com/JohnnyxSmokes/alpha-tek-discord) |
 | Discord **licensing** | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
 | Extension | [alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) |
 | **AAI Hub** | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
@@ -272,7 +272,7 @@ Devnet proof exists for deliberate readers; mainnet remains gated.
 Epic Alpha is the **community flagship**. Discord **licensing** is how other servers buy **Tek stack product** without cloning private ops IP.
 
 **Micro-footprint:** [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing)  
-**Flagship product map:** [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord)  
+**Flagship product map:** [alpha-tek-discord](https://github.com/JohnnyxSmokes/alpha-tek-discord)  
 **Community server:** [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)
 
 ### 10.1 Price
@@ -307,7 +307,7 @@ Hands-on build, custom Discord servers, and white-label Alpha Tek sites. Pack co
 | **Discord licensing** | Tek packs for other communities | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
 | **AAI utility** | Retention + spend + stake alignment | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
 | **Alpha Trench** | Practice floor: Instant Trade, paper books, portal distribution | [alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) |
-| **Community flagship** | Epic Alpha Discord, the home for calls and learning | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
+| **Community flagship** | Epic Alpha Discord, the home for calls and learning | [alpha-tek-discord](https://github.com/JohnnyxSmokes/alpha-tek-discord) |
 
 The sustainability rails are subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension. Traders enter through Trench, then subscriptions, tipping, and licensing fund buybacks.
 

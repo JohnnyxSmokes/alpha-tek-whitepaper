@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.alphatek.app">
+    <img src="assets/alpha-tek-lockup-nav.png" alt="AlphaTek" width="720" />
+  </a>
+</p>
+
 # Alpha Tek Platform — Whitepaper
 
 **Crypto intelligence at one view. Same depth across every chain.**

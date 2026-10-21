@@ -12,21 +12,21 @@
 <div align="center">
 
   <h1>Alpha Tek · Epic Alpha</h1>
-  <h3>Ecosystem Whitepaper Synopsis</h3>
+  <h3>Ecosystem Whitepaper Synopsis · Platform 1.3 · AAI 2.1</h3>
 
   <p>
     <strong>Crypto intelligence at one view. Subscriptions, AAI, and Alpha Trench keep the stack sustainable.</strong>
   </p>
 
   <p>
-    <em>Public synopsis · Version 2026.10.21 · Living document</em>
+    <em>Public synopsis · Platform 1.3 · AAI 2.1 · October 18, 2026</em>
   </p>
   <p>
     Dual papers, current working copies:
     <a href="ALPHA_TEK_PLATFORM_WHITEPAPER.md">Alpha Tek Platform White Paper</a>
     ·
     <a href="AAI_TOKEN_WHITEPAPER.md">AAI Token White Paper</a>
-    (version 2.1, October 18, 2026).
+    (Platform 1.3 and AAI 2.1, October 18, 2026).
     The official issuance is published on alphatek.app at TGE.
   </p>
 

@@ -5,13 +5,7 @@
 
 <p align="center">
   <a href="https://www.alphatek.app">
-    <img src="assets/alphatek-sidestack-wordmark-silver-on-light.jpg" alt="AlphaTek" width="720" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.alphatek.app">
-    <img src="assets/banner.png" alt="Alpha Tek Ecosystem Whitepaper Synopsis" width="100%" />
+    <img src="assets/alphatek-sidestack-wordmark-black-on-light.jpg" alt="AlphaTek" width="720" />
   </a>
 </p>
 

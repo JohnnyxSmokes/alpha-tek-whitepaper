@@ -36,7 +36,7 @@ The platform is split into **frontend** (Next.js web app) and **backend** (Expre
   - **Alpha Academy** — Courses, quizzes, certificates
   - **AAI Hub** — Stake, claim, and utility (devnet programs proven; mainnet gated)
   - **Alpha Trench extension** — Instant Trade, paper books, Guard, Mint Intel, linked live leaderboard and weekly trade contests
-  - **API library** — 1,500+ platform endpoints. Alpha Tek MCP is coming soon
+  - **API library** — 1,500+ platform endpoints. Agent MCP (`@alphatekapp/mcp`) reserved on npm; ships after QA and auditor approval
   - **Alpha Brain / MLM** — Queryable memory for calls, search heat, and replay, keyed by mint
   - **Subscribe / Help** — Stripe payments, Privy wallet login, JWT sessions
 
@@ -44,7 +44,7 @@ Navigation is via a **sidebar**: Explorer, Dashboard, Multi-Chain (planned), Pum
 
 ### 2.2 Backend
 
-- **API:** Express.js, REST. The public library is **1,500+ platform endpoints**. Alpha Tek MCP is coming soon.
+- **API:** Express.js, REST. The public library is **1,500+ platform endpoints**. Agent MCP draft (`packages/alphatek-mcp`) targets `/api/data*` and `/api/radars` with customer `aatk_` or JWT; public npm publish pending QA.
 - **Data:** Many upstreams, normalized behind Alpha Tek routes. See section 4. No single vendor is the stack.
 - **Auth:** JWT. Provider keys stay on the server.
 - **Cache:** Short TTL caches on live endpoints so the UI stays fresh without hammering any one feed.
@@ -141,7 +141,7 @@ Chain parity, the multi-chain menu, usability polish, and the data layer above a
 
 ## 8. Technical Summary
 
-- **Stack:** Next.js, Express, the provider set in section 4, Privy, Stripe, JWT. API library is 1,500+ endpoints. Alpha Tek MCP is coming soon.
+- **Stack:** Next.js, Express, the provider set in section 4, Privy, Stripe, JWT. API library is 1,500+ endpoints. Agent MCP is reserved as `@alphatekapp/mcp` (in-repo draft; not npm-published yet).
 - **Security:** No provider keys in the client. Rate limits and cache TTLs protect upstreams.
 - **Refresh:** Short poll and backend cache for live DEX data. The status bar shows freshness.
 - **Chains:** The 15-chain menu in section 3, with Solana-level depth as the bar.

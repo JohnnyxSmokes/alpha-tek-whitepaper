@@ -1,5 +1,7 @@
 # AlphaAi (AAI) Token Whitepaper
 
+![Alpha Tek — Intelligence. Infrastructure. Advantage.](whitepaper-header.jpg)
+
 **Version 2.1**  
 **October 18, 2026**
 
@@ -34,7 +36,7 @@
 
 ## Executive Summary
 
-**AlphaAi (AAI)** is a Solana SPL utility token that powers **Alpha Tek** — a production crypto intelligence stack spanning Discord command infrastructure, the **Alpha Dex** web platform ([alphatek.app](https://alphatek.app)), and four **Anchor programs** deployed and exercised on **Solana devnet**.
+**AlphaAi (AAI)** is a Solana SPL utility token that powers **Alpha Tek** — a production crypto intelligence stack spanning Discord command infrastructure, the **AlphaTek App** web platform ([alphatek.app](https://alphatek.app)), and four **Anchor programs** deployed and exercised on **Solana devnet**.
 
 We built Epic Alpha to **give back**: free tools and resources so newcomers and working investors could access real intelligence without paying enterprise prices. Keeping everything free indefinitely was not sustainable. AAI and paid subscriptions exist so the mission can continue — free value at the base, premium depth for those who need it, and a **deflationary flywheel** that ties platform revenue to token utility.
 
@@ -43,7 +45,7 @@ We built Epic Alpha to **give back**: free tools and resources so newcomers and 
 | Layer | Status | Evidence |
 |-------|--------|----------|
 | **Discord Alpha Tek** | Production | 405+ commands, multi-chain monitoring, KOL/social/whale systems |
-| **Alpha Dex platform** | Production | Explorer, Discover, Quant, KOL Radar, wallet, Stripe subscriptions, Privy auth |
+| **AlphaTek App** | Production | Explorer, Discover, Quant, KOL Radar, wallet, Stripe subscriptions, Privy auth |
 | **Alpha Terminal** | Production | Hybrid coin pages (`/dashboard/coin/[id]`) with Blockchain.com on-chain metrics |
 | **AAI Hub (devnet)** | Production UI + devnet chain | Stake / claim / unstake via Privy; activity feed; Devnet Ops health |
 | **Anchor programs (devnet)** | Deployed, smoke-tested | Token, staking 0.6.0, buyback, referral — stable program IDs |
@@ -72,11 +74,11 @@ Alpha Tek began inside **Epic Alpha Discord** as a give-back project: comprehens
 
 ### The sustainability pivot
 
-Free-only operations consumed founder time and infrastructure cost without return. To keep building — and to keep free tiers available — Alpha Tek must become **self-sustaining**:
+Free-only operations consumed founder time and infrastructure cost without return. To keep building for the Pack, Alpha Tek must become **self-sustaining** across three revenue rails:
 
-1. **Free layer** — Public explorer surfaces, Discord community access, academy previews, and selected commands remain entry points.
-2. **Paid layer** — Stripe subscriptions (Degen / Alpha / Elite), Discord bot licensing, and premium platform modules fund development and infra.
-3. **Token layer** — AAI stakes unlock tiers, rewards long-term holders, and receives **25% of revenue-driven buybacks** (50% burned, 30% to stakers, 20% treasury).
+1. **Subscription layer** · Stripe plans (Degen / Alpha / Elite), Discord bot licensing, and premium AlphaTek App modules fund development and infra.
+2. **Token layer** · AAI stakes unlock tiers, rewards long-term holders, and receives **25% of revenue-driven buybacks** (50% burned, 30% to stakers, 20% treasury).
+3. **Extension layer** · Alpha Trench Instant Trade, paper practice, and portal distribution put Alpha Tek on the venues traders already use · another growth and retention rail for the ecosystem.
 
 This is not hype. It is the minimum viable economics to keep serving newcomers while shipping institutional-grade tooling.
 
@@ -86,7 +88,7 @@ This is not hype. It is the minimum viable economics to keep serving newcomers w
 
 Cryptocurrency markets generate more data than any individual can process. Intelligence is fragmented across dashboards, bots, APIs, and social feeds — often at $100–500/month per tool.
 
-**Alpha Tek** unifies that stack: Discord for power users and alerts, **Alpha Dex** for visual discovery and portfolio workflows, and **AAI** for on-chain utility that aligns user growth with token value.
+**Alpha Tek** unifies that stack: Discord for power users and alerts, **AlphaTek App** for visual discovery and portfolio workflows, and **AAI** for on-chain utility that aligns user growth with token value.
 
 ---
 
@@ -113,7 +115,7 @@ Demand for actionable crypto intelligence continues to grow across retail, creat
 | Surface | Role |
 |---------|------|
 | **Discord (Epic Alpha)** | Real-time commands, alerts, KOL/social/whale monitoring, admin tooling |
-| **Alpha Dex (alphatek.app)** | Explorer, Discover, Quant social trading, wallet view, subscriptions, AAI Hub |
+| **AlphaTek App (alphatek.app)** | Explorer, Discover, Quant social trading, wallet view, subscriptions, AAI Hub |
 
 Both share backend services, caching, and data providers. Sensitive keys stay server-side; clients use JWT-authenticated APIs only.
 
@@ -403,7 +405,7 @@ On-chain stake positions (devnet today) tie long-term holders to platform tiers 
 ### Retail traders
 
 - Free explorer + Discord entry; upgrade via subscription or AAI stake.
-- Alpha Terminal for BTC/ETH/SOL macro context without leaving Alpha Dex.
+- Alpha Terminal for BTC/ETH/SOL macro context without leaving AlphaTek App.
 - Stake for APY (devnet proven; mainnet TBD) and tier unlocks.
 
 ### Institutions & creators
@@ -510,11 +512,15 @@ flowchart TB
   Burn --> Stake
 ```
 
-**Narrative:** Users enter free → learn in Academy → subscribe or stake → revenue funds buybacks and product → burns and staking rewards support holders → improved product attracts more users.
+**Caption:** The Alpha Tek flywheel. Revenue compounds into deflation, staking yield, and a stronger Trench and trade stack.
+
+**Narrative:** Traders land in Alpha Trench → convert to Alpha (and later trade flow) → subscriptions, tipping, and licensing drive platform revenue → 25% buybacks → burn, staking, and treasury support holders → growth feeds Trench and the desk.
+
+*(Diagram node: **Alpha Trench Extension** replaces legacy Free Tools. Art: `/marketing/ecosystem/ecosystem-flywheel.png`.)*
 
 ### Jupiter integration & the referral flywheel (agentic deflation)
 
-Alpha Dex routes on-chain swaps through the **Jupiter Swap API V2** meta-aggregator
+AlphaTek App routes on-chain swaps through the **Jupiter Swap API V2** meta-aggregator
 (non-custodial: the server assembles the transaction, the user signs with Privy). Every routed
 swap carries a **50 bps platform referral fee** to a dedicated referral wallet — turning ordinary
 platform usage into a **third revenue rail** alongside subscriptions and Discord licensing.
@@ -732,8 +738,9 @@ We mean business: production code at [alphatek.app](https://alphatek.app), devne
 
 ## Contact & Resources
 
-| Channel | Link |
+| Contact | Link |
 |---------|------|
+| Email | contact@alphatek.app |
 | Platform | https://alphatek.app |
 | Discord | https://discord.gg/rPp5FeMWz3 |
 | Repository docs | `ALPHA_NEW2/docs/` (paths above) |

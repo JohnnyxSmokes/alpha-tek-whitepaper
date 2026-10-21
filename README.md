@@ -19,7 +19,7 @@
   </p>
 
   <p>
-    <em>Public synopsis · Version 2026.10.19 · Living document</em>
+    <em>Public synopsis · Version 2026.10.21 · Living document</em>
   </p>
   <p>
     Dual papers, current working copies:
@@ -122,7 +122,7 @@ Product footprints (docs only, no private source):
 
 ---
 
-## 5. Web Portal (Alpha Tek App)
+## 5. Web Portal (AlphaTek App)
 
 Live: **[https://www.alphatek.app](https://www.alphatek.app)**
 
@@ -145,7 +145,7 @@ Live: **[https://www.alphatek.app](https://www.alphatek.app)**
 | Alpha Trench | Extension plus live leaderboard and weekly trade contests |
 | Alpha Academy | Interactive education |
 | AAI Hub | Utility rails (stake / claim / activity) and the referral ladder |
-| API library | 1,500+ platform endpoints. Alpha Tek MCP is coming soon |
+| API library | 1,500+ platform endpoints. Agent MCP (`@alphatekapp/mcp`) is reserved on npm and ships after QA and auditor approval |
 | Alpha Brain / MLM | Queryable memory for calls, heat, and replay, keyed by mint |
 | Build Journey | Public changelog of real shipping |
 
@@ -182,6 +182,8 @@ Licensing Discord Tek packs is a commercial pillar for other servers / operators
 ## 7. Alpha Trench (Browser Client)
 
 Chrome MV3 trench client: Instant Trade shell, honesty ladder (paper / practice first), Alpha Guard on social hosts, mint context, journal / replay path, optional portal link.
+
+On the ecosystem flywheel, the **Alpha Trench Extension** is the entry node. It replaces the old Free Tools label.
 
 **Why a separate product footprint:** extensions must be **inspectable**. Core platform need **not** be open for that trust to exist.
 
@@ -308,7 +310,7 @@ Pack composition is **agreement-scoped**. Tiers communicate ladder and economics
 | **AAI utility** | Retention + spend + stake alignment | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
 | **Free layer** | Discord + free portal surfaces as entry | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
 
-Sustainability funds more free tools over time — the inversion of “free until collapse.”
+The sustainability rails are subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension (Instant Trade, paper practice, and portal distribution). Sustainability funds more free tools over time. The free layer stays the front door.
 
 ---
 
@@ -372,6 +374,7 @@ Chain parity, the multi-chain menu, usability polish, and the current data surfa
 
 | | |
 |--|--|
+| Email | contact@alphatek.app |
 | Portal | https://www.alphatek.app |
 | AAI Hub | https://www.alphatek.app/dashboard/aai |
 | Discord | https://discord.gg/sPW3tJk |

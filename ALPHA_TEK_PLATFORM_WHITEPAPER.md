@@ -161,3 +161,7 @@ The chain menu and the terminal are in place. What comes next is mainnet AAI, a 
 Older chain notes that still mention Cielo or treat Moralis as the whole data layer are historical. They are not the current stack. Architecture and security live in [ALPHA_TEK_PLATFORM_PLAN.md](../ALPHA_TEK_PLATFORM_PLAN.md).
 
 **Alpha Tek — Crypto intelligence at one view.**
+
+<p align="center">
+  <img src="assets/alphatek-mark-clear.png" alt="AlphaTek" width="180" />
+</p>

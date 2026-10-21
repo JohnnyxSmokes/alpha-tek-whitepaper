@@ -58,7 +58,7 @@
 
 **Alpha Tek** is a production **crypto intelligence ecosystem**:
 
-1. **Epic Alpha Discord** — community home and Discord Tek Stack (200+ channels, hundreds of commands)  
+1. **AlphaTek Discord** — community home and Discord Tek Stack (200+ channels, hundreds of commands)  
 2. **AlphaTek.App** — live multi-surface web portal (Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, TG Arena, KOL, Guard, Academy, AAI Hub, API library)
 3. **Alpha Trench** — browser trench client. Linked sessions feed the live leaderboard and weekly trade contests  
 4. **AAI (AlphaAi)** — Solana utility token design with **devnet-proven** programs and a revenue-linked buyback flywheel  
@@ -116,7 +116,7 @@ Product footprints (docs only, no private source):
 
 **Mission:** multi-chain alpha that is accessible, fast, and usable. Subscriptions, AAI utility, and Alpha Trench are how the stack sustains itself.
 
-**Origin:** For more than three years, Epic Alpha Discord offered free tools, alpha, and intel. That chapter is morphing into an ecosystem: **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
+**Origin:** For more than three years, AlphaTek Discord offered free tools, alpha, and intel. That chapter is morphing into an ecosystem: **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
 
 **Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **655** and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 
@@ -307,7 +307,7 @@ Hands-on build, custom Discord servers, and white-label Alpha Tek sites. Pack co
 | **Discord licensing** | Tek packs for other communities | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
 | **AAI utility** | Retention + spend + stake alignment | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
 | **Alpha Trench** | Practice floor: Instant Trade, paper books, portal distribution | [alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) |
-| **Community flagship** | Epic Alpha Discord, the home for calls and learning | [alpha-tek-discord](https://github.com/JohnnyxSmokes/alpha-tek-discord) |
+| **Community flagship** | AlphaTek Discord, the home for calls and learning | [alpha-tek-discord](https://github.com/JohnnyxSmokes/alpha-tek-discord) |
 
 The sustainability rails are subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension. Traders enter through Trench, then subscriptions, tipping, and licensing fund buybacks.
 

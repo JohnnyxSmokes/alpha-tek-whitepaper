@@ -275,15 +275,13 @@ Epic Alpha is the **community flagship**. Discord **licensing** is how other ser
 **Flagship product map:** [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord)  
 **Community server:** [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)
 
-### 10.1 Monthly tiers
+### 10.1 Price
 
-| Tier | Price | Fit |
-|------|------:|-----|
-| **Starter** | **$299** | Small communities · core pack |
-| **Professional** | **$799** | Mid-size servers · deeper radar / monitor footprint |
-| **Enterprise** | **$1,999** | Large / white-label · priority relationship |
+| Plan | Monthly | Billed annually |
+|------|--------:|----------------:|
+| **Elite Enterprise** | **$349.99** a month | **$280** a month |
 
-Pack composition is **agreement-scoped**. Tiers communicate ladder and economics, not a free dump of proprietary channel trees.
+Hands-on build, custom Discord servers, and white-label Alpha Tek sites. Pack composition is **agreement-scoped**, with custom scope-based pricing on the Elite card.
 
 ### 10.2 Why it exists
 

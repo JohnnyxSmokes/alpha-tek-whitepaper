@@ -46,7 +46,7 @@
 
 **AlphaAi (AAI)** is a Solana SPL utility token that powers **Alpha Tek** — a production crypto intelligence stack spanning Discord command infrastructure, the **AlphaTek App** web platform ([alphatek.app](https://alphatek.app)), and four **Anchor programs** deployed and exercised on **Solana devnet**.
 
-We built Epic Alpha to **give back**: free tools and resources so newcomers and working investors could access real intelligence without paying enterprise prices. Keeping everything free indefinitely was not sustainable. AAI and paid subscriptions exist so the mission can continue — free value at the base, premium depth for those who need it, and a **deflationary flywheel** that ties platform revenue to token utility.
+For more than three years, Epic Alpha offered free tools, alpha, and intel so newcomers and working investors could see real intelligence without enterprise prices. That chapter is morphing into an ecosystem: subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension, tied to a **deflationary flywheel** that routes platform revenue into token utility.
 
 ### What is shipped (2025–2026)
 
@@ -78,11 +78,11 @@ We built Epic Alpha to **give back**: free tools and resources so newcomers and 
 
 ### Origin
 
-Alpha Tek began inside **Epic Alpha Discord** as a give-back project: comprehensive crypto intelligence — whale alerts, KOL tracking, momentum tools, discovery — offered free so people who had lost money or had little to start with could make **informed** decisions instead of gambling on noise.
+For more than three years, Alpha Tek lived inside **Epic Alpha Discord** as free tools, alpha, and intel: whale alerts, KOL tracking, momentum tools, and discovery, so people who had lost money or had little to start with could make **informed** decisions.
 
 ### The sustainability pivot
 
-Free-only operations consumed founder time and infrastructure cost without return. To keep building for the Pack, Alpha Tek must become **self-sustaining** across three revenue rails:
+That chapter is morphing into an ecosystem model. Alpha Tek now runs on three revenue rails:
 
 1. **Subscription layer** · Stripe plans (Degen / Alpha / Elite), Discord bot licensing, and premium AlphaTek App modules fund development and infra.
 2. **Token layer** · AAI stakes unlock tiers, rewards long-term holders, and receives **25% of revenue-driven buybacks** (50% burned, 30% to stakers, 20% treasury).

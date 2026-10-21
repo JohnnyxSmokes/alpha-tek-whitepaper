@@ -63,7 +63,7 @@
 3. **Alpha Trench** — browser trench client. Linked sessions feed the live leaderboard and weekly trade contests  
 4. **AAI (AlphaAi)** — Solana utility token design with **devnet-proven** programs and a revenue-linked buyback flywheel  
 
-Alpha Tek began as a give-back inside Epic Alpha, for people who got wrecked, refuse to get wrecked again, or only have a little capital. The operating model is three rails: **subscriptions and Discord licensing**, **AAI utility**, and the **Alpha Trench extension**. That is how the stack stays sustainable while newcomers can still learn before they risk capital.
+For more than three years, Epic Alpha offered free tools, alpha, and intel to people who got wrecked, refuse to get wrecked again, or only have a little capital. That chapter is morphing into an ecosystem. The operating model is three rails: **subscriptions and Discord licensing**, **AAI utility**, and the **Alpha Trench extension**.
 
 This document is a **public synopsis**. Implementation monorepos remain private by default. Working product surfaces are public.
 
@@ -116,7 +116,7 @@ Product footprints (docs only, no private source):
 
 **Mission:** multi-chain alpha that is accessible, fast, and usable. Subscriptions, AAI utility, and Alpha Trench are how the stack sustains itself.
 
-**Origin:** Epic Alpha Discord was built to **give back**. Keeping everything unpaid indefinitely with one-builder intensity was not sustainable. The pivot is **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
+**Origin:** For more than three years, Epic Alpha Discord offered free tools, alpha, and intel. That chapter is morphing into an ecosystem: **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
 
 **Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **600** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 

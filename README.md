@@ -15,7 +15,7 @@
   <h3>Ecosystem Whitepaper Synopsis</h3>
 
   <p>
-    <strong>Crypto intelligence at one view. Free tools that must survive. Utility that earns its place.</strong>
+    <strong>Crypto intelligence at one view. Subscriptions, AAI, and Alpha Trench keep the stack sustainable.</strong>
   </p>
 
   <p>
@@ -58,12 +58,12 @@
 
 **Alpha Tek** is a production **crypto intelligence ecosystem**:
 
-1. **Epic Alpha Discord** — free community + Discord Tek Stack (200+ channels, hundreds of commands)  
+1. **Epic Alpha Discord** — community home and Discord Tek Stack (200+ channels, hundreds of commands)  
 2. **AlphaTek.App** — live multi-surface web portal (Explorer, Discover, News Hub, Market Intel, Watchlist, Alpha Spy, TG Arena, KOL, Guard, Academy, AAI Hub, API library)
 3. **Alpha Trench** — browser trench client. Linked sessions feed the live leaderboard and weekly trade contests  
 4. **AAI (AlphaAi)** — Solana utility token design with **devnet-proven** programs and a revenue-linked buyback flywheel  
 
-The founding intent is blunt: **give real intelligence away** to people who got wrecked, refuse to get wrecked again, or only have a little capital — then make the system **self-sustaining** so the free layer is not a martyr project.
+Alpha Tek began as a give-back inside Epic Alpha, for people who got wrecked, refuse to get wrecked again, or only have a little capital. The operating model is three rails: **subscriptions and Discord licensing**, **AAI utility**, and the **Alpha Trench extension**. That is how the stack stays sustainable while newcomers can still learn before they risk capital.
 
 This document is a **public synopsis**. Implementation monorepos remain private by default. Working product surfaces are public.
 
@@ -74,7 +74,7 @@ This document is a **public synopsis**. Implementation monorepos remain private 
 | Failure mode | Result |
 |--------------|--------|
 | Tab hell | Eight terminals, zero shared session memory |
-| Free forever decay | Founders burn out; free tools die |
+| No revenue rail | The product stops when one builder funds the whole stack |
 | Token-first vapor | Dec without product |
 | Discord noise | Channel spam with no operator structure |
 | Vendor cosplay | User interfaces advertising someone else’s brand |
@@ -89,7 +89,7 @@ This document is a **public synopsis**. Implementation monorepos remain private 
 ├────────────────┬─────────────────────┬───────────────────────┤
 │  EPIC ALPHA    │  ALPHATEK.APP       │  ALPHA TRENCH         │
 │  Discord       │  Web portal         │  Browser extension    │
-│  Free first    │  Full intelligence  │  Pair-page client     │
+│  Community     │  Full intelligence  │  Pair-page client     │
 │  + licensing   │  + AAI Hub          │  Guard · Journal      │
 └───────┬────────┴──────────┬──────────┴───────────┬───────────┘
         │                   │                      │
@@ -114,9 +114,9 @@ Product footprints (docs only, no private source):
 
 ## 4. Mission & Origin
 
-**Mission:** multi-chain alpha that is accessible, fast, and usable — with a path from free community tools to paid depth without losing honesty.
+**Mission:** multi-chain alpha that is accessible, fast, and usable. Subscriptions, AAI utility, and Alpha Trench are how the stack sustains itself.
 
-**Origin:** Epic Alpha Discord was built to **give back**. Keeping everything free indefinitely with one-builder intensity was not sustainable. The pivot is not “become extractive.” The pivot is **subscriptions, licensing, and AAI utility** so free intelligence can endure.
+**Origin:** Epic Alpha Discord was built to **give back**. Keeping everything unpaid indefinitely with one-builder intensity was not sustainable. The pivot is **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
 
 **Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **600** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 
@@ -183,7 +183,7 @@ Licensing Discord Tek packs is a commercial pillar for other servers / operators
 
 Chrome MV3 trench client: Instant Trade shell, honesty ladder (paper / practice first), Alpha Guard on social hosts, mint context, journal / replay path, optional portal link.
 
-On the ecosystem flywheel, the **Alpha Trench Extension** is the entry node. It replaces the old Free Tools label.
+On the ecosystem flywheel, the **Alpha Trench Extension** is the entry node. Traders land there, practice, then move into AlphaTek App, subscriptions, and AAI.
 
 **Why a separate product footprint:** extensions must be **inspectable**. Core platform need **not** be open for that trust to exist.
 
@@ -269,11 +269,11 @@ Devnet proof exists for deliberate readers; mainnet remains gated.
 
 ## 10. Discord Licensing (Commercial Micro-Footprint)
 
-Epic Alpha is the **free flagship**. Discord **licensing** is how other servers buy **Tek stack product** without cloning private ops IP.
+Epic Alpha is the **community flagship**. Discord **licensing** is how other servers buy **Tek stack product** without cloning private ops IP.
 
 **Micro-footprint:** [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing)  
 **Flagship product map:** [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord)  
-**Try free first:** [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)
+**Community server:** [discord.gg/sPW3tJk](https://discord.gg/sPW3tJk)
 
 ### 10.1 Monthly tiers
 
@@ -287,7 +287,7 @@ Pack composition is **agreement-scoped**. Tiers communicate ladder and economics
 
 ### 10.2 Why it exists
 
-- Funding free Epic Alpha is not optional if free tools are to live  
+- Licensing funds the flagship community and feeds the same buyback policy as subscriptions  
 - B2B licensing sells **replication cost** (years of channel + command + reliability culture)  
 - Revenue participates in the same **25% buyback policy** design as subscriptions  
 
@@ -296,7 +296,7 @@ Pack composition is **agreement-scoped**. Tiers communicate ladder and economics
 | | Epic Alpha | Licensed |
 |--|------------|----------|
 | Join | Free | Commercial |
-| Role | Mission home + free intel | Operator stacks inside other communities |
+| Role | Mission home and community intelligence | Operator stacks inside other communities |
 | IP | Alpha Tek operated | Rights under license |
 
 ---
@@ -308,9 +308,10 @@ Pack composition is **agreement-scoped**. Tiers communicate ladder and economics
 | **Subscriptions** | Portal depth ($29 / $79 / $199 design ladder) | [alpha-tek-portal](https://github.com/JohnnyxSmokes/alpha-tek-portal) |
 | **Discord licensing** | Tek packs for other communities | [discord-licensing](https://github.com/JohnnyxSmokes/discord-licensing) |
 | **AAI utility** | Retention + spend + stake alignment | [aai-hub](https://github.com/JohnnyxSmokes/aai-hub) |
-| **Free layer** | Discord + free portal surfaces as entry | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
+| **Alpha Trench** | Practice floor: Instant Trade, paper books, portal distribution | [alpha-trench](https://github.com/JohnnyxSmokes/alpha-trench) |
+| **Community flagship** | Epic Alpha Discord, the home for calls and learning | [epic-alpha-discord](https://github.com/JohnnyxSmokes/epic-alpha-discord) |
 
-The sustainability rails are subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension (Instant Trade, paper practice, and portal distribution). Sustainability funds more free tools over time. The free layer stays the front door.
+The sustainability rails are subscriptions and Discord licensing, AAI utility, and the Alpha Trench extension. Traders enter through Trench, then subscriptions, tipping, and licensing fund buybacks.
 
 ---
 

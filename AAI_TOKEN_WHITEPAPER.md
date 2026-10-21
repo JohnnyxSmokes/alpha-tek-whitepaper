@@ -2,12 +2,20 @@
 
 ![Alpha Tek — Intelligence. Infrastructure. Advantage.](whitepaper-header.jpg)
 
-**Version 2.1**  
-**October 18, 2026**
+<p align="center">
+  <strong>Version 2.1</strong><br />
+  <strong>October 18, 2026</strong>
+</p>
 
-**Official website:** [https://alphatek.app](https://alphatek.app)
+<p align="center">
+  <strong>Official Website:</strong> <a href="https://alphatek.app">https://alphatek.app</a><br />
+  <strong>Founder GitHub:</strong> <a href="https://github.com/JohnnyxSmokes">https://github.com/JohnnyxSmokes</a><br />
+  <strong>Official Contact:</strong> <a href="mailto:contact@alphatek.app">contact@alphatek.app</a>
+</p>
 
-*Devnet-verified protocol · Production intelligence platform · Institutional disclosure*
+<p align="center">
+  <em>Solana Devnet-Verified Protocol · Production Intelligence Platform · Institutional Disclosure</em>
+</p>
 
 ---
 

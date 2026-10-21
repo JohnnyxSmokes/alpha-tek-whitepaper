@@ -6,9 +6,24 @@
 
 # Alpha Tek Platform — Whitepaper
 
-**Crypto intelligence at one view. Same depth across every chain.**
+<p align="center">
+  <strong>Crypto intelligence at one view. Same depth across every chain.</strong>
+</p>
 
-*Version 1.3 — October 18, 2026*
+<p align="center">
+  <strong>Version 1.3</strong><br />
+  <strong>October 18, 2026</strong>
+</p>
+
+<p align="center">
+  <strong>Official Website:</strong> <a href="https://alphatek.app">https://alphatek.app</a><br />
+  <strong>Founder GitHub:</strong> <a href="https://github.com/JohnnyxSmokes">https://github.com/JohnnyxSmokes</a><br />
+  <strong>Official Contact:</strong> <a href="mailto:contact@alphatek.app">contact@alphatek.app</a>
+</p>
+
+<p align="center">
+  <em>Solana Devnet-Verified Protocol · Production Intelligence Platform · Institutional Disclosure</em>
+</p>
 
 ---
 

@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.alphatek.app">
-    <img src="assets/alphatek-sidestack-wordmark-black-on-light.jpg" alt="AlphaTek" width="720" />
+    <img src="assets/alpha-tek-lockup-nav.png" alt="AlphaTek" width="720" />
   </a>
 </p>
 
@@ -386,6 +386,10 @@ Chain parity, the multi-chain menu, usability polish, and the current data surfa
 ---
 
 <div align="center">
+
+  <p>
+    <img src="assets/alphatek-mark-clear.png" alt="AlphaTek" width="180" />
+  </p>
 
   <sub>
     Alpha Tek · Epic Alpha — Public Ecosystem Whitepaper Synopsis · 2026<br />

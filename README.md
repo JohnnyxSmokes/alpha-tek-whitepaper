@@ -118,7 +118,7 @@ Product footprints (docs only, no private source):
 
 **Origin:** For more than three years, Epic Alpha Discord offered free tools, alpha, and intel. That chapter is morphing into an ecosystem: **subscriptions, Discord licensing, AAI utility, and the Alpha Trench extension**.
 
-**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **600** era and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
+**Founder:** JohnnyxSmokes (EpicAlpha · AlphaTek), Tampa FL — **14+ year crypto veteran** (trader · developer · multiproject operator since the **2012 BTC era**). Extensive public forum history from the **Bitcointalk** era with verifiable long-horizon participation; earlier free education (e.g. Bitcoin Homework brand) and multiple cycle-crossing products before Alpha Tek. Daily product shipping discipline (Cursor Day **655** and ongoing). Shipping heat visible on GitHub contribution graphs — largely private repos by design.
 
 ---
 
